@@ -42,3 +42,21 @@ Related links:
 * [6b6t's official Blog](https://blog.6b6t.org)
 
 ![banner](../static/img/icons/banner.avif)
+
+name: Adr14n0
+Mainly goes by: Adrian
+Discord: adr14n0
+YouTube: private
+NameMC: https://namemc.com/profile/Adr14n0.2
+Joindate: 4/18/2022
+Accomplishments: 
+Griefed sg megabase
+Griefed bd71 base 
+Became an optio in 6b Imps
+Skin
+(skin from namemc, format: ![Skin](skin PNG url))
+https://namemc.com/skin/4de71d4d8c9a2de5
+Clans
+Shulkergang
+555
+Arosti
